@@ -27,7 +27,7 @@ ad
 3. Run the program:
 ```bash
 python main.py
-
+```
 ## Project Structure
 python-contact-manager.cli/
 |
