@@ -29,8 +29,10 @@ ad
 python main.py
 ```
 ## Project Structure
+```
 python-contact-manager.cli/
 |
 |- main.py
 |- contacts.json
 |- README.md
+```
