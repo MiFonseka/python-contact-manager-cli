@@ -23,7 +23,14 @@ git clone https://github.com/MiFonseka/python-contact-manager-cli
 
 2. Navigate into the project folder:
 cd python-contact-manager-cli
-
+ad
 3. Run the program:
 ```bash
 python main.py
+
+## Project Structure
+python-contact-manager.cli/
+|
+|- main.py
+|- contacts.json
+|- README.md
