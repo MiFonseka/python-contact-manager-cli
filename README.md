@@ -36,3 +36,17 @@ python-contact-manager.cli/
 |- contacts.json
 |- README.md
 ```
+## What I Learned
+- Working with lists and dictionaries
+- Handling user input in CLI applications
+- Reading and writing files using JSON
+- Structuring a simple Python application
+
+## Future Improvements
+- Edit existing contacts
+- Validate email and phone formats
+- Export contact to CSV
+- Improve user interface
+
+## Author
+Developed by Fonseca
